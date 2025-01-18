@@ -8,6 +8,7 @@ For naming convention purposes and identification, all documentations will be ab
 | No. | Date Created/Modified | Author | Remarks|
 |---|---|---|---|
 | 0.0 | January 18, 2025 | Engr. Bien Carlo Halili | Created repository and added initial contents in README.md |
+| 0.1 | January 18, 2025 | Engr. Bien Carlo Halili | Added Project Structure in README.md |
 
 ## Setup Guide (Windows OS)
 | Tech Stack | Purpose | Steps |
