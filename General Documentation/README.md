@@ -30,7 +30,7 @@ The figure below is a general structure that will be followed throughout the pro
 1. Click current branch name.
 2. Click "Create new branch from...".
 3. Click "origin/main".
-4. Name branch with the following format: "aep-<purpose of change>".
+4. Name branch with the following format: "aep-[purpose of change]".
 ### Post-change (VS Code):
 1. Navigate to Source Control.
 2. Briefly explain the changes.
@@ -45,3 +45,7 @@ The figure below is a general structure that will be followed throughout the pro
 6. Click "Create pull request.
 7. Click Merge.
 8. Optional: Delete compared branch.
+### Cleanup (VS Code):
+1. Delete remote branch containing change by typing "git branch -d [branch name]" at terminal.
+2. Get latest code by checking out at "main" and typing "git pull" at terminal.
+3. Get latest remote branches by typing "git fetch --prune" at terminal.
