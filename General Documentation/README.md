@@ -18,3 +18,6 @@ For naming convention purposes and identification, all documentations will be ab
 | Visual Studio Code | Documentation | Go to https://code.visualstudio.com/ > Download for Windows |
 
 ## Project Structure
+The figure below is a general structure that will be followed throughout the project-making process:
+
+![Alt text](Resources/AEP%20Project%20Structure.drawio.png)
